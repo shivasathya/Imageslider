@@ -13,10 +13,10 @@
       <div class="swiper">
         <div class="swiper-wrapper">
           <!-- Slides -->
-          <div class="swiper-slide"><img src="images/aston-martin.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="images/audi-rs-e-tron-gt.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="images/maserati-mc20.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="images/nio-et5.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="aston-martin.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="audi-rs-e-tron-gt.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="maserati-mc20.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="nio-et5.jpg" alt=""></div>
         </div>
         
         <div class="swiper-pagination"></div>
